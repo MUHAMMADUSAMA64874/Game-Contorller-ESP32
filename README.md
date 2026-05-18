@@ -95,7 +95,3 @@ The tester lets you select from connected input devices exposed by Windows. If n
 | `Images/` | Demo GIF and build photos |
 | `LICENSE` | MIT License |
 | `NOTICE.md` | Attribution note |
-
-## Notes
-
-The older files in `delete/` are preserved as development notes and experiments.
